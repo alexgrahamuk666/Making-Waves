@@ -2,7 +2,7 @@
 This is a decompiler of your legacy Making Waves software track files v1/2/3 to allow you to export to many formats.
 
 # Background
-Running the originl MW natively for 64 bit system's isn't possible and just incase you can't quite remember what that file was called? File does not exist.
+Running the original MW natively for 64 bit system's isn't possible and just incase you can't quite remember what that file was called? File does not exist.
 
 # Mid Game
 The minimum export will be midi exports but transation tables will be available. As an avid user I understand what is required and bare notes sometimes won't make the cut!
